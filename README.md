@@ -1,12 +1,12 @@
 
 
-<img width="645" height="1397" alt="Simulator Screenshot - iPhone 16 Plus - 2025-10-18 at 01 12 08" src="https://github.com/user-attachments/assets/bcb3634d-2d58-4b3c-b7db-855648479edc" />
-<img width="645" height="1397" alt="Simulator Screenshot - iPhone 16 Plus - 2025-10-18 at 01 11 58" src="https://github.com/user-attachments/assets/e66e4af2-f7b9-4a6a-a19d-e54e937a93c8" />
-<img width="645" height="1397" alt="Simulator Screenshot - iPhone 16 Plus - 2025-10-18 at 01 11 44" src="https://github.com/user-attachments/assets/c9166b91-7718-466e-b708-46549cc24d7c" />
-<img width="645" height="1397" alt="Simulator Screenshot - iPhone 16 Plus - 2025-10-18 at 01 11 40" src="https://github.com/user-attachments/assets/b1c1c0e1-d581-46df-a3ae-de2a10368080" />
-<img width="645" height="1397" alt="Simulator Screenshot - iPhone 16 Plus - 2025-10-18 at 01 11 30" src="https://github.com/user-attachments/assets/45a46ffa-72f9-446a-81b1-13433551e130" />
-<img width="645" height="1397" alt="Simulator Screenshot - iPhone 16 Plus - 2025-10-18 at 01 11 21" src="https://github.com/user-attachments/assets/57d8d95b-dbe9-4780-8ae0-938896838005" />
-<img width="645" height="1397" alt="Simulator Screenshot - iPhone 16 Plus - 2025-10-18 at 01 10 48" src="https://github.com/user-attachments/assets/ba9db49b-1a08-40fd-8073-45488a27bff1" />
+<img width="325" height="700" alt="Simulator Screenshot - iPhone 16 Plus - 2025-10-18 at 01 12 08" src="https://github.com/user-attachments/assets/bcb3634d-2d58-4b3c-b7db-855648479edc" />
+<img width="325" height="700" alt="Simulator Screenshot - iPhone 16 Plus - 2025-10-18 at 01 11 58" src="https://github.com/user-attachments/assets/e66e4af2-f7b9-4a6a-a19d-e54e937a93c8" />
+<img width="325" height="700" alt="Simulator Screenshot - iPhone 16 Plus - 2025-10-18 at 01 11 44" src="https://github.com/user-attachments/assets/c9166b91-7718-466e-b708-46549cc24d7c" />
+<img width="325" height="700" alt="Simulator Screenshot - iPhone 16 Plus - 2025-10-18 at 01 11 40" src="https://github.com/user-attachments/assets/b1c1c0e1-d581-46df-a3ae-de2a10368080" />
+<img width="325" height="700" alt="Simulator Screenshot - iPhone 16 Plus - 2025-10-18 at 01 11 30" src="https://github.com/user-attachments/assets/45a46ffa-72f9-446a-81b1-13433551e130" />
+<img width="325" height="700" alt="Simulator Screenshot - iPhone 16 Plus - 2025-10-18 at 01 11 21" src="https://github.com/user-attachments/assets/57d8d95b-dbe9-4780-8ae0-938896838005" />
+<img width="325" height="700" alt="Simulator Screenshot - iPhone 16 Plus - 2025-10-18 at 01 10 48" src="https://github.com/user-attachments/assets/ba9db49b-1a08-40fd-8073-45488a27bff1" />
 
 
 
